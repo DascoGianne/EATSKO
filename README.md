@@ -12,6 +12,18 @@ TeX: A powerful typesetting system used for creating well-structured technical a
 HTML: The backbone of web development, defining the structure of web pages.  
 Python: A versatile programming language used for automation, data processing, and backend development.  
 
+<p align="left">
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="TeX" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+</p>
+
 ## 📱 User Interface
 
 to be followed
