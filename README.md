@@ -26,4 +26,4 @@ Python: A versatile programming language used for automation, data processing, a
 
 ## 📱 User Interface
 
-to be followed
+to be followed.
